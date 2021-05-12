@@ -9,5 +9,4 @@ Ce projet est sous le nom de flux RSS; programmé en Java
             
             
             Réalisé Par : DOUABI Zakaria 
-                          HADDOUCH Mohammed
-                          AMAL Yassine
+                        
